@@ -28,7 +28,6 @@ This project demonstrates how to use **Machine Learning (Random Forest)** and **
 Created for a university cybersecurity project to demonstrate the integration of traditional ML and LLMs in security operations.
 ### output Screens
 <img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/0c97ce35-fd0c-48b6-8cf2-67459b84a833" />
-<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/75597938-e0d6-40df-8247-a9638edb02f6" />
 <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/a5086735-5ba2-4fb1-8d04-5c5dda8f8308" />
 
 
